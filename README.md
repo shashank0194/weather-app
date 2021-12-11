@@ -9,7 +9,7 @@
 4. Run ```npm start```
 
 
-## Go Live - [Click Here](https://cryptoappreact.netlify.app/)
+## Go Live - [Click Here](https://weather-app0194.herokuapp.com/)
 
 # Features:-
 1. Users can use this application on any device.

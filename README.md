@@ -9,7 +9,7 @@
 4. Run ```npm start```
 
 
-## Go Live - [Click Here](https://weather-app0194.herokuapp.com/)
+## Go Live - [Click Here](https://cryptoappreact.netlify.app/)
 
 # Features:-
 1. Users can use this application on any device.
@@ -52,6 +52,6 @@ On this page, users can see the temparature details of thier place with warm bac
 ## Cold background:-
 ![Cold backgrond](https://github.com/shashank0194/weather-app/blob/main/weather/images/Screenshot%20(372).png?raw=true)
 
-On this page, users can see the temparature details of thier place with cold background.
+On this page, users can see the temparature details of thier place with warm background.
 
 So, this all about my mini project.

@@ -97,11 +97,7 @@ const Weather = () => {
             </div>
           </div>
         ) : (
-          <div>
-            <div className="location-box">
-              <div className="location">City not found</div>
-            </div>
-          </div>
+          ""
         )}
       </main>
     </div>
